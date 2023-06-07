@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name LocalizedName="Knowledge Article Template" OriginalName="Knowledge Article Template">msdyn_knowledgearticletemplate</Name>
+  <EntityInfo>
+    <entity Name="msdyn_knowledgearticletemplate" unmodified="1">
+      <attributes />
+    </entity>
+  </EntityInfo>
+  <RibbonDiffXml />
+</Entity>

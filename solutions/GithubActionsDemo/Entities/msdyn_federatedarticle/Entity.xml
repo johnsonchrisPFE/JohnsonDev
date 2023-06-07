@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name LocalizedName="Knowledge Federated Article" OriginalName="Knowledge Federated Article">msdyn_federatedarticle</Name>
+  <EntityInfo>
+    <entity Name="msdyn_federatedarticle" unmodified="1">
+      <attributes />
+    </entity>
+  </EntityInfo>
+  <RibbonDiffXml />
+</Entity>

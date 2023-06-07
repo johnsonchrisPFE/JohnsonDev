@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.2.23051.252" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>GithubActionsDemo</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Github Actions Demo" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.4</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>Crd117d</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="CDS Default Publisher" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>crcd4</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>12959</CustomizationOptionValuePrefix>
+      <Addresses>
+        <Address>
+          <AddressNumber>1</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+        <Address>
+          <AddressNumber>2</AddressNumber>
+          <AddressTypeCode xsi:nil="true"></AddressTypeCode>
+          <City xsi:nil="true"></City>
+          <County xsi:nil="true"></County>
+          <Country xsi:nil="true"></Country>
+          <Fax xsi:nil="true"></Fax>
+          <FreightTermsCode xsi:nil="true"></FreightTermsCode>
+          <ImportSequenceNumber xsi:nil="true"></ImportSequenceNumber>
+          <Latitude xsi:nil="true"></Latitude>
+          <Line1 xsi:nil="true"></Line1>
+          <Line2 xsi:nil="true"></Line2>
+          <Line3 xsi:nil="true"></Line3>
+          <Longitude xsi:nil="true"></Longitude>
+          <Name xsi:nil="true"></Name>
+          <PostalCode xsi:nil="true"></PostalCode>
+          <PostOfficeBox xsi:nil="true"></PostOfficeBox>
+          <PrimaryContactName xsi:nil="true"></PrimaryContactName>
+          <ShippingMethodCode xsi:nil="true"></ShippingMethodCode>
+          <StateOrProvince xsi:nil="true"></StateOrProvince>
+          <Telephone1 xsi:nil="true"></Telephone1>
+          <Telephone2 xsi:nil="true"></Telephone2>
+          <Telephone3 xsi:nil="true"></Telephone3>
+          <TimeZoneRuleVersionNumber xsi:nil="true"></TimeZoneRuleVersionNumber>
+          <UPSZone xsi:nil="true"></UPSZone>
+          <UTCOffset xsi:nil="true"></UTCOffset>
+          <UTCConversionTimeZoneCode xsi:nil="true"></UTCConversionTimeZoneCode>
+        </Address>
+      </Addresses>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="aaduser" behavior="0" />
+      <RootComponent type="1" schemaName="account" behavior="0" />
+      <RootComponent type="1" schemaName="actioncard" behavior="0" />
+      <RootComponent type="1" schemaName="activityfileattachment" behavior="2" />
+      <RootComponent type="1" schemaName="activitymimeattachment" behavior="2" />
+      <RootComponent type="1" schemaName="activitypointer" behavior="2" />
+      <RootComponent type="1" schemaName="annotation" behavior="2" />
+      <RootComponent type="1" schemaName="appnotification" behavior="2" />
+      <RootComponent type="1" schemaName="appointment" behavior="2" />
+      <RootComponent type="1" schemaName="attribute" behavior="2" />
+      <RootComponent type="1" schemaName="bot" behavior="2" />
+      <RootComponent type="1" schemaName="businessunit" behavior="2" />
+      <RootComponent type="1" schemaName="channelaccessprofile" behavior="2" />
+      <RootComponent type="1" schemaName="channelaccessprofilerule" behavior="2" />
+      <RootComponent type="1" schemaName="channelaccessprofileruleitem" behavior="2" />
+      <RootComponent type="1" schemaName="comment" behavior="2" />
+      <RootComponent type="1" schemaName="connection" behavior="2" />
+      <RootComponent type="1" schemaName="connectioninstance" behavior="2" />
+      <RootComponent type="1" schemaName="connectionrole" behavior="2" />
+      <RootComponent type="1" schemaName="contact" behavior="2" />
+      <RootComponent type="1" schemaName="conversationtranscript" behavior="2" />
+      <RootComponent type="1" schemaName="customeraddress" behavior="2" />
+      <RootComponent type="1" schemaName="desktopflowmodule" behavior="2" />
+      <RootComponent type="1" schemaName="duplicaterule" behavior="2" />
+      <RootComponent type="1" schemaName="email" behavior="2" />
+      <RootComponent type="1" schemaName="emailserverprofile" behavior="2" />
+      <RootComponent type="1" schemaName="emailsignature" behavior="2" />
+      <RootComponent type="1" schemaName="enablearchivalrequest" behavior="2" />
+      <RootComponent type="1" schemaName="entity" behavior="2" />
+      <RootComponent type="1" schemaName="entitykey" behavior="2" />
+      <RootComponent type="1" schemaName="entityrecordfilter" behavior="2" />
+      <RootComponent type="1" schemaName="entityrelationship" behavior="2" />
+      <RootComponent type="1" schemaName="expiredprocess" behavior="2" />
+      <RootComponent type="1" schemaName="externalparty" behavior="2" />
+      <RootComponent type="1" schemaName="externalpartyitem" behavior="2" />
+      <RootComponent type="1" schemaName="fax" behavior="2" />
+      <RootComponent type="1" schemaName="featurecontrolsetting" behavior="2" />
+      <RootComponent type="1" schemaName="feedback" behavior="2" />
+      <RootComponent type="1" schemaName="fieldsecurityprofile" behavior="2" />
+      <RootComponent type="1" schemaName="flowmachineimage" behavior="2" />
+      <RootComponent type="1" schemaName="flowmachineimageversion" behavior="2" />
+      <RootComponent type="1" schemaName="importmap" behavior="2" />
+      <RootComponent type="1" schemaName="letter" behavior="2" />
+      <RootComponent type="1" schemaName="mailbox" behavior="2" />
+      <RootComponent type="1" schemaName="mailmergetemplate" behavior="2" />
+      <RootComponent type="1" schemaName="managedproperty" behavior="2" />
+      <RootComponent type="1" schemaName="metadataforarchival" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_aibdatasetfile" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_aibfeedbackloop" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_componentlayerdatasource" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_customcontrolextendedsettings" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_dataflow" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_dataflowrefreshhistory" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_entityrefreshhistory" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_federatedarticle" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_federatedarticleincident" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_fileupload" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_healthcare_feedback" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_insightsstorevirtualentity" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_integratedsearchprovider" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_kbattachment" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_knowledgearticletemplate" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_knowledgepersonalfilter" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_nonrelationalds" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_objectdetectionproduct" behavior="2" />
+      <RootComponent type="1" schemaName="msdyn_onlineshopperintention" behavior="2" />
+      <RootComponent type="1" schemaName="mspcat_catalogsubmissionfiles" behavior="2" />
+      <RootComponent type="1" schemaName="mspcat_packagestore" behavior="2" />
+      <RootComponent type="1" schemaName="new_bpf_d69d738cc4d84e2f9930255d396bdf5f" behavior="2" />
+      <RootComponent type="1" schemaName="newprocess" behavior="2" />
+      <RootComponent type="1" schemaName="optionset" behavior="2" />
+      <RootComponent type="1" schemaName="organization" behavior="2" />
+      <RootComponent type="1" schemaName="organizationdatasyncfnostate" behavior="2" />
+      <RootComponent type="1" schemaName="organizationdatasyncstate" behavior="2" />
+      <RootComponent type="1" schemaName="organizationdatasyncsubscriptionentity" behavior="2" />
+      <RootComponent type="1" schemaName="organizationdatasyncsubscriptionfnotable" behavior="2" />
+      <RootComponent type="1" schemaName="phonecall" behavior="2" />
+      <RootComponent type="1" schemaName="position" behavior="2" />
+      <RootComponent type="1" schemaName="privilegesremovalsetting" behavior="2" />
+      <RootComponent type="1" schemaName="processsession" behavior="2" />
+      <RootComponent type="1" schemaName="publisher" behavior="2" />
+      <RootComponent type="1" schemaName="queue" behavior="2" />
+      <RootComponent type="1" schemaName="queueitem" behavior="2" />
+      <RootComponent type="1" schemaName="recordfilter" behavior="2" />
+      <RootComponent type="1" schemaName="recurringappointmentmaster" behavior="2" />
+      <RootComponent type="1" schemaName="report" behavior="2" />
+      <RootComponent type="1" schemaName="retentioncleanupoperation" behavior="2" />
+      <RootComponent type="1" schemaName="retentionoperation" behavior="2" />
+      <RootComponent type="1" schemaName="retentionoperationdetail" behavior="2" />
+      <RootComponent type="1" schemaName="sample_challenge" behavior="2" />
+      <RootComponent type="1" schemaName="sample_challengemanagementprocess" behavior="2" />
+      <RootComponent type="1" schemaName="sample_donation" behavior="2" />
+      <RootComponent type="1" schemaName="sample_fundraiser" behavior="2" />
+      <RootComponent type="1" schemaName="sample_idea" behavior="2" />
+      <RootComponent type="1" schemaName="sample_product" behavior="2" />
+      <RootComponent type="1" schemaName="sample_reservation" behavior="2" />
+      <RootComponent type="1" schemaName="sample_review" behavior="2" />
+      <RootComponent type="1" schemaName="sharepointdocumentlocation" behavior="2" />
+      <RootComponent type="1" schemaName="template" behavior="2" />
+      <RootComponent type="1" schemaName="transactioncurrency" behavior="2" />
+      <RootComponent type="1" schemaName="workflow" behavior="2" />
+      <RootComponent type="29" id="{5edaa95f-d655-4eda-bc6a-7db7621967f1}" behavior="0" />
+      <RootComponent type="29" id="{ab81c1af-1a45-48d9-8133-3edc033dbeef}" behavior="0" />
+      <RootComponent type="29" id="{bcd43793-5686-4fd4-b3b4-c0c26d6f7e40}" behavior="0" />
+      <RootComponent type="29" id="{d69d738c-c4d8-4e2f-9930-255d396bdf5f}" behavior="0" />
+      <RootComponent type="80" schemaName="msdyn_AssetCheckout" behavior="0" />
+    </RootComponents>
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="1" schemaName="aaduser" displayName="AAD User" solution="MetadataExtension (1.0.2.50)" />
+        <Dependent type="1" schemaName="aaduser" displayName="AAD User" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="activityfileattachment" displayName="Activity File Attachment" solution="msdynce_ActivitiesPatch (9.0.23044.230420001)" />
+        <Dependent type="1" schemaName="activityfileattachment" displayName="Activity File Attachment" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="appnotification" displayName="Notification" solution="AppNotifications (10.0.0.14)" />
+        <Dependent type="1" schemaName="appnotification" displayName="Notification" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="bot" displayName="Chatbot" solution="PowerVirtualAgents (2.0.0.502)" />
+        <Dependent type="1" schemaName="bot" displayName="Chatbot" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="comment" displayName="Comment" solution="msdyn_CollaborativeComments (9.1.0.23)" />
+        <Dependent type="1" schemaName="comment" displayName="Comment" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="connectioninstance" displayName="Connection Instance" solution="msdyn_ConnectionInstances (1.0.8.0)" />
+        <Dependent type="1" schemaName="connectioninstance" displayName="Connection Instance" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="conversationtranscript" displayName="ConversationTranscript" solution="PowerVirtualAgentsCommon (2.0.0.502)" />
+        <Dependent type="1" schemaName="conversationtranscript" displayName="ConversationTranscript" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="desktopflowmodule" displayName="Desktop Flow Module" solution="MicrosoftFlowExtensionsCore (1.5.2.0)" />
+        <Dependent type="1" schemaName="desktopflowmodule" displayName="Desktop Flow Module" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="enablearchivalrequest" displayName="EnableArchivalRequest" solution="msft_DataArchivalBaseComponents (1.0.0.110)" />
+        <Dependent type="1" schemaName="enablearchivalrequest" displayName="EnableArchivalRequest" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="entityrecordfilter" displayName="EntityRecordFilter" solution="AuthorizationCore (1.94.0.0)" />
+        <Dependent type="1" schemaName="entityrecordfilter" displayName="EntityRecordFilter" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="featurecontrolsetting" displayName="FeatureControlSetting" solution="msdyn_FeatureControlSetting (1.0.0.3)" />
+        <Dependent type="1" schemaName="featurecontrolsetting" displayName="FeatureControlSetting" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="flowmachineimage" displayName="Flow Machine Image" solution="MicrosoftFlowExtensionsCore (1.5.2.0)" />
+        <Dependent type="1" schemaName="flowmachineimage" displayName="Flow Machine Image" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="flowmachineimageversion" displayName="Flow Machine Image Version" solution="MicrosoftFlowExtensionsCore (1.5.2.0)" />
+        <Dependent type="1" schemaName="flowmachineimageversion" displayName="Flow Machine Image Version" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="metadataforarchival" displayName="MetadataForArchival" solution="msft_DataArchivalBaseComponents (1.0.0.110)" />
+        <Dependent type="1" schemaName="metadataforarchival" displayName="MetadataForArchival" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_aibdatasetfile" displayName="AI Builder Dataset File" solution="msdyn_AISolutionDefaultTemplates (202305.1.9.2)" />
+        <Dependent type="1" schemaName="msdyn_aibdatasetfile" displayName="AI Builder Dataset File" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_aibfeedbackloop" displayName="AI Builder Feedback Loop" solution="msdyn_AISolutionFullAdditions (202305.1.9.2)" />
+        <Dependent type="1" schemaName="msdyn_aibfeedbackloop" displayName="AI Builder Feedback Loop" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_componentlayerdatasource" displayName="Component Layer Data Source" solution="ComponentHistoryAPIs (9.1.0.33)" />
+        <Dependent type="1" schemaName="msdyn_componentlayerdatasource" displayName="Component Layer Data Source" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_customcontrolextendedsettings" displayName="Custom Control Extended Setting" solution="msdyn_UserExperiencesExtendedSettings (1.0.0.944)" />
+        <Dependent type="1" schemaName="msdyn_customcontrolextendedsettings" displayName="Custom Control Extended Setting" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_dataflow" displayName="Dataflow" solution="DataflowSolution (1.0.0.29)" />
+        <Dependent type="1" schemaName="msdyn_dataflow" displayName="Dataflow" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_dataflowrefreshhistory" displayName="DataflowRefreshHistory" solution="DataflowSolution (1.0.0.29)" />
+        <Dependent type="1" schemaName="msdyn_dataflowrefreshhistory" displayName="DataflowRefreshHistory" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_entityrefreshhistory" displayName="EntityRefreshHistory" solution="DataflowSolution (1.0.0.29)" />
+        <Dependent type="1" schemaName="msdyn_entityrefreshhistory" displayName="EntityRefreshHistory" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_federatedarticle" displayName="Knowledge Federated Article" solution="msdynce_KnowledgeManagementOnlineFeatures (9.0.23051.5022)" />
+        <Dependent type="1" schemaName="msdyn_federatedarticle" displayName="Knowledge Federated Article" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_federatedarticleincident" displayName="Knowledge Federated Article Incident" solution="msdynce_KnowledgeManagementOnlineFeatures (9.0.23051.5022)" />
+        <Dependent type="1" schemaName="msdyn_federatedarticleincident" displayName="Knowledge Federated Article Incident" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_fileupload" displayName="File Upload" solution="msdyn_SmartDataImportBase (1.0.0.23)" />
+        <Dependent type="1" schemaName="msdyn_fileupload" displayName="File Upload" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_healthcare_feedback" displayName="Healthcare Feedback" solution="msdyn_AIBuilderSampleData (1.0.0.6)" />
+        <Dependent type="1" schemaName="msdyn_healthcare_feedback" displayName="Healthcare Feedback" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_insightsstorevirtualentity" displayName="Insights Store Virtual Entity" solution="msdyn_InsightsStoreDataProvider (1.0.5.0)" />
+        <Dependent type="1" schemaName="msdyn_insightsstorevirtualentity" displayName="Insights Store Virtual Entity" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_integratedsearchprovider" displayName="Integrated search provider" solution="msdynce_KnowledgeManagementOnlineFeatures (9.0.23051.5022)" />
+        <Dependent type="1" schemaName="msdyn_integratedsearchprovider" displayName="Integrated search provider" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_kbattachment" displayName="Knowledge Article Attachment" solution="msdynce_KnowledgeManagementFeatures (9.0.23051.5022)" />
+        <Dependent type="1" schemaName="msdyn_kbattachment" displayName="Knowledge Article Attachment" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_knowledgearticletemplate" displayName="Knowledge Article Template" solution="msdynce_KnowledgeManagementFeatures (9.0.23051.5022)" />
+        <Dependent type="1" schemaName="msdyn_knowledgearticletemplate" displayName="Knowledge Article Template" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_knowledgepersonalfilter" displayName="Knowledge search personal filter config" solution="msdynce_KnowledgeManagementFeatures (9.0.23051.5022)" />
+        <Dependent type="1" schemaName="msdyn_knowledgepersonalfilter" displayName="Knowledge search personal filter config" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_nonrelationalds" displayName="NonRelational Data Source" solution="NonRelationalDataProvider (9.0.0.1143)" />
+        <Dependent type="1" schemaName="msdyn_nonrelationalds" displayName="NonRelational Data Source" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_objectdetectionproduct" displayName="Object Detection Product" solution="msdyn_AIBuilderSampleData (1.0.0.6)" />
+        <Dependent type="1" schemaName="msdyn_objectdetectionproduct" displayName="Object Detection Product" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="msdyn_onlineshopperintention" displayName="Online Shopper Intention" solution="msdyn_AIBuilderSampleData (1.0.0.6)" />
+        <Dependent type="1" schemaName="msdyn_onlineshopperintention" displayName="Online Shopper Intention" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="mspcat_catalogsubmissionfiles" displayName="Catalog Submission Files" solution="mspcat_CatalogPackaging (1.0.0.12)" />
+        <Dependent type="1" schemaName="mspcat_catalogsubmissionfiles" displayName="Catalog Submission Files" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="mspcat_packagestore" displayName="Package Submission Store" solution="mspcat_CatalogPackaging (1.0.0.12)" />
+        <Dependent type="1" schemaName="mspcat_packagestore" displayName="Package Submission Store" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="new_bpf_d69d738cc4d84e2f9930255d396bdf5f" displayName="Idea to Project Business Process" solution="InnovationHub (0.0.0.1)" />
+        <Dependent type="1" schemaName="new_bpf_d69d738cc4d84e2f9930255d396bdf5f" displayName="Idea to Project Business Process" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="organizationdatasyncfnostate" displayName="OrganizationDataSyncFnoState" solution="msdyn_DataSyncState (1.0.0.11)" />
+        <Dependent type="1" schemaName="organizationdatasyncfnostate" displayName="OrganizationDataSyncFnoState" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="organizationdatasyncstate" displayName="OrganizationDataSyncState" solution="msdyn_DataSyncState (1.0.0.11)" />
+        <Dependent type="1" schemaName="organizationdatasyncstate" displayName="OrganizationDataSyncState" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="organizationdatasyncsubscriptionentity" displayName="OrganizationDataSyncSubscriptionEntity" solution="OrganizationDataSyncSolution (1.2.0.27)" />
+        <Dependent type="1" schemaName="organizationdatasyncsubscriptionentity" displayName="OrganizationDataSyncSubscriptionEntity" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="organizationdatasyncsubscriptionfnotable" displayName="OrganizationDataSyncSubscriptionFnoTable" solution="OrganizationDataSyncSolution (1.2.0.27)" />
+        <Dependent type="1" schemaName="organizationdatasyncsubscriptionfnotable" displayName="OrganizationDataSyncSubscriptionFnoTable" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="privilegesremovalsetting" displayName="Privileges Removal Setting" solution="AuthorizationCore (1.94.0.0)" />
+        <Dependent type="1" schemaName="privilegesremovalsetting" displayName="Privileges Removal Setting" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="recordfilter" displayName="Record Filter" solution="AuthorizationCore (1.94.0.0)" />
+        <Dependent type="1" schemaName="recordfilter" displayName="Record Filter" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="retentioncleanupoperation" displayName="RetentionCleanupOperation" solution="msft_DataArchivalBaseComponents (1.0.0.110)" />
+        <Dependent type="1" schemaName="retentioncleanupoperation" displayName="RetentionCleanupOperation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="retentionoperation" displayName="RetentionOperation" solution="msft_DataArchivalBaseComponents (1.0.0.110)" />
+        <Dependent type="1" schemaName="retentionoperation" displayName="RetentionOperation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="retentionoperationdetail" displayName="RetentionOperationDetail" solution="msft_DataArchivalBaseComponents (1.0.0.110)" />
+        <Dependent type="1" schemaName="retentionoperationdetail" displayName="RetentionOperationDetail" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_challenge" displayName="Challenge" solution="InnovationHub (0.0.0.1)" />
+        <Dependent type="1" schemaName="sample_challenge" displayName="Challenge" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_challengemanagementprocess" displayName="Challenge Management Process" solution="InnovationHub (0.0.0.1)" />
+        <Dependent type="1" schemaName="sample_challengemanagementprocess" displayName="Challenge Management Process" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_donation" displayName="Donation" solution="msdyn_SampleApp (1.0.0.4)" />
+        <Dependent type="1" schemaName="sample_donation" displayName="Donation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_fundraiser" displayName="Fundraiser" solution="msdyn_SampleApp (1.0.0.4)" />
+        <Dependent type="1" schemaName="sample_fundraiser" displayName="Fundraiser" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_idea" displayName="Idea" solution="InnovationHub (0.0.0.1)" />
+        <Dependent type="1" schemaName="sample_idea" displayName="Idea" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_product" displayName="Product" solution="AssetCheckout (0.0.0.1)" />
+        <Dependent type="1" schemaName="sample_product" displayName="Product" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_reservation" displayName="Reservation" solution="AssetCheckout (0.0.0.1)" />
+        <Dependent type="1" schemaName="sample_reservation" displayName="Reservation" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="1" schemaName="sample_review" displayName="Review" solution="AssetCheckout (0.0.0.1)" />
+        <Dependent type="1" schemaName="sample_review" displayName="Review" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="80" schemaName="msdyn_AssetCheckout" displayName="Asset Checkout" solution="AssetCheckout (0.0.0.1)" />
+        <Dependent type="80" schemaName="msdyn_AssetCheckout" displayName="Asset Checkout" />
+      </MissingDependency>
+    </MissingDependencies>
+  </SolutionManifest>
+</ImportExportXml>

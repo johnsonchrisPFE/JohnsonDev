@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name LocalizedName="Package Submission Store" OriginalName="Package Submission Store">mspcat_PackageStore</Name>
+  <EntityInfo>
+    <entity Name="mspcat_PackageStore" unmodified="1">
+      <attributes />
+    </entity>
+  </EntityInfo>
+  <RibbonDiffXml />
+</Entity>
