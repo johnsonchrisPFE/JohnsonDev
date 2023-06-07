@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name LocalizedName="Idea to Project Business Process" OriginalName="Idea to Project Business Process">new_bpf_d69d738cc4d84e2f9930255d396bdf5f</Name>
+  <EntityInfo>
+    <entity Name="new_bpf_d69d738cc4d84e2f9930255d396bdf5f" unmodified="1">
+      <attributes />
+    </entity>
+  </EntityInfo>
+  <RibbonDiffXml />
+</Entity>
